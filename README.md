@@ -1,3 +1,6 @@
+# New
+This is an updated file
+
 # Sample
 This is a git repo
 
